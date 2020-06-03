@@ -1,0 +1,13 @@
+# Ignore DNN files
+dnn/coco.names
+dnn/yolov3.cfg
+dnn/yolov3.weights
+
+
+# Visual Studio Code
+.vscode
+.vscode/*
+
+# Python
+*__pycache__
+*__pycache__/*

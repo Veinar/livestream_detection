@@ -1,0 +1,8 @@
+# Weights:
+https://pjreddie.com/media/files/yolov3.weights
+
+# Config:
+https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg
+
+# Names:
+https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names
